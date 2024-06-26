@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @techyargonn
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning Javascript
